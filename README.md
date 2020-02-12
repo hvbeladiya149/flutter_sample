@@ -1,8 +1,17 @@
-# flutter_app_for_desktop_test
+# Flutter Sample
 
-A new Flutter application.
+Here in this demo I am showing basic standard of flutter application. Here i provided mac support also for desktop application.
 
-## Getting Started
+## Packages
+
+Brief description about packages for their use
+
+- "models" includes business logic structure
+- "parsers" includes callApi methods of restful API.
+- "screens" includes screen pages.
+- "utils" includes Global classes.
+- "value" includes resource strings, colors and image paths.
+- "widgets" includes custom widgets.
 
 This project is a starting point for a Flutter application.
 

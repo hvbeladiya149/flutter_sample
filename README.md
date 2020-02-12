@@ -1,6 +1,6 @@
 # Flutter Sample
 
-Here in this demo I am showing basic standard of flutter application. Here i provided mac support also for desktop application.
+Here in this demo I am showing basic standard of flutter application with mac support for desktop application.
 
 ## Packages
 
